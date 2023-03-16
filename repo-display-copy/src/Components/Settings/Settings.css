@@ -1,0 +1,18 @@
+.accordions{
+    margin-top: 7%;
+}
+
+.settings-container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.inner-settings-container{
+    width: 80%
+}
+
+#repo-left{
+    width: 0%
+}

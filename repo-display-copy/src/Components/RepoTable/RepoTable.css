@@ -1,0 +1,23 @@
+.repo-container { 
+    display: flex;
+    /* justify-content: flex-start; */
+    width: 80%;
+    flex-direction: column;
+  }
+
+  .card-collection {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+  }
+  
+  #repositories {
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+  }
